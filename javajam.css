@@ -1,0 +1,115 @@
+<style>
+        body{
+     background-image: url("casestudystarters/javajam/background.gif");
+            font-family: Verdana , sans-serif;
+            }
+        h1{
+            background-color:#d2b48c ;
+            color: #221811;
+            padding-top: 45px;
+            background-image:url("casestudystarters/javajam/javajamlogo.jpg");
+            background-repeat: no-repeat;
+            padding-left: 50px;
+            font-size: 3em;
+            font-family: Georgia , "Times New Roman" , serif;
+            text-indent: 1em;
+            text-shadow: 3px 3px 5px #CCCCCC;
+            text-align: center;
+        margin-left: 0px;
+            padding-bottom: 45px;
+            
+        }
+
+header{
+    
+height: auto;
+    
+}
+
+   h2{
+    
+            font-family: Georgia , "Times New Roman" , serif;
+          
+        }
+          nav
+        {
+            font-weight: bold;
+            font-size: 1.5em;
+            word-spacing: .1em;
+            text-align: center;
+            padding-top: 0px;
+            
+            
+        }
+nav a 
+{
+    text-decoration: none;
+}
+       
+        p
+        {
+            font-size: .90em;
+            text-indent: 0.1em;
+            
+        
+        }
+        ul
+        {
+            font-weight: bold;
+        }
+        
+        footer
+        {
+           
+            font-size: .60em;
+            font-style: italic;
+	        background-color: #d2b48c;
+            padding-bottom: 5px;
+            border-top: 2px solid; 
+                color : #221811;
+            text-align: center;
+        }
+        .feature
+        {
+            color:#C70000
+        }
+        .company
+        {
+            font-weight: bold;
+            font-family:  Georgia , "Times New Roman" , serif;
+        }
+h4
+{
+    background-color: #D2B48C;
+    font-size: 1.2em;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+main{
+    padding-left: 2em;
+    padding-bottom: 2em;
+    padding-right: 2em;
+    display: block;
+    
+}
+div .details
+{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+img
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+#wrapper {
+    background-color: #FEF6C2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 5px 5px 5px black;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+    </style>
